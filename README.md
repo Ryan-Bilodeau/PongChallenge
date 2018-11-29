@@ -6,3 +6,4 @@ Files I've made can be found in the Assets folder, code I wrote is found in the 
 all code I wrote for the project was done in C#
 
 This is a pretty simple game application and was the first application I created.
+The game is very similar to the classic 'Pong' game.
